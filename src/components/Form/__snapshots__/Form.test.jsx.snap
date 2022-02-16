@@ -1,0 +1,193 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form/> should render form 1`] = `
+<div>
+  <form
+    action="#"
+    class="sc-pVTFL crJtVe"
+  >
+    <fieldset>
+      <div
+        class="sc-dkPtRN cNwulK"
+      >
+        <h3
+          id="rendimento-title"
+        >
+          Rendimento
+        </h3>
+        <a
+          class="rendimento"
+          href="#"
+        >
+          Bruto
+        </a>
+        <a
+          class="rendimento-bg-br-10"
+        >
+          Liquido
+        </a>
+      </div>
+      <label
+        class="sc-furwcr hlwOoS"
+      >
+        Aporte inicial
+      </label>
+      <div
+        class="sc-bdvvtL hcYmyj"
+      >
+        <input
+          class=""
+          name="aporte"
+          value=""
+        />
+        <label
+          class="of"
+        >
+          
+           
+        </label>
+      </div>
+      <label
+        class="sc-furwcr hlwOoS"
+      >
+        Prazo (em meses)
+      </label>
+      <div
+        class="sc-bdvvtL hcYmyj"
+      >
+        <input
+          class=""
+          name="prazo"
+          value=""
+        />
+        <label
+          class="of"
+        >
+          
+           
+        </label>
+      </div>
+      <label
+        class="sc-furwcr hlwOoS"
+      >
+        IPCA(ao ano)
+      </label>
+      <div
+        class="sc-bdvvtL hcYmyj"
+      >
+        <input
+          class=""
+          name="ipca"
+          value="69"
+        />
+        <label
+          class="of"
+        >
+          
+           
+        </label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <div
+        class="sc-hKwDye crhrtS"
+      >
+        <h3
+          class="index-title"
+        >
+          Tipos de Indexação
+        </h3>
+        <a
+          class="btn-selected-bg"
+          href="#"
+        >
+          PRÉ
+        </a>
+        <a
+          class=" btn-selected-br0 "
+        >
+          PÓS
+        </a>
+        <a
+          class="btn-selected-br10"
+        >
+          FIXADO
+        </a>
+      </div>
+      <label
+        class="sc-furwcr hlwOoS"
+      >
+        Aporte mensal
+      </label>
+      <div
+        class="sc-bdvvtL hcYmyj"
+      >
+        <input
+          class=""
+          name="aporte_mensal"
+          value=""
+        />
+        <label
+          class="of"
+        >
+          
+           
+        </label>
+      </div>
+      <label
+        class="sc-furwcr hlwOoS"
+      >
+        Rentabilidade
+      </label>
+      <div
+        class="sc-bdvvtL hcYmyj"
+      >
+        <input
+          class=""
+          name="rentabilidade"
+          value=""
+        />
+        <label
+          class="of"
+        >
+          
+           
+        </label>
+      </div>
+      <label
+        class="sc-furwcr hlwOoS"
+      >
+        CDI(ao ano)
+      </label>
+      <div
+        class="sc-bdvvtL hcYmyj"
+      >
+        <input
+          class=""
+          name="cdi"
+          value="99"
+        />
+        <label
+          class="of"
+        >
+          
+           
+        </label>
+      </div>
+    </fieldset>
+    <fieldset />
+    <button
+      class="sc-gsDKAQ BxhBY"
+      type="reset"
+    >
+      Limpar Campos
+    </button>
+    <a
+      class="sc-iCfMLu cVKiPP"
+      id="simulador-btn"
+    >
+      Simular
+    </a>
+  </form>
+</div>
+`;

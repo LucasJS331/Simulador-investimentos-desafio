@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Indexacao /> Should render indecacao 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL evxNMc"
+  >
+    <h3
+      class="index-title"
+    >
+      Tipos de Indexação
+    </h3>
+    <a
+      class="btn-selected-bg"
+      href="#"
+    >
+      PRÉ
+    </a>
+    <a
+      class=" btn-selected-br0 "
+    >
+      PÓS
+    </a>
+    <a
+      class="btn-selected-br10"
+    >
+      FIXADO
+    </a>
+  </div>
+</div>
+`;

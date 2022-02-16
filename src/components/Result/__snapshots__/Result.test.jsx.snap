@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Result/> should render Result Grid 1`] = `
+<div>
+  <div
+    class="sc-gsDKAQ lprlBs"
+  >
+    <h3
+      class="title-result"
+    >
+      Simulação
+    </h3>
+  </div>
+  <section
+    class="sc-dkPtRN dHibC"
+    id="form-result"
+  >
+    <article
+      class="sc-bdvvtL cSbLCz"
+    >
+      <h5>
+        Valor final Bruto
+      </h5>
+      <p
+        class=""
+        id="article-text"
+      >
+        99
+      </p>
+    </article>
+    <article
+      class="sc-bdvvtL cSbLCz"
+    >
+      <h5>
+        Aliquota do IR
+      </h5>
+      <p
+        class=""
+        id="article-text"
+      >
+        99
+      </p>
+    </article>
+    <article
+      class="sc-bdvvtL cSbLCz"
+    >
+      <h5>
+        Valor pago do IR
+      </h5>
+      <p
+        class=""
+        id="article-text"
+      >
+        99
+      </p>
+    </article>
+    <article
+      class="sc-bdvvtL cSbLCz"
+    >
+      <h5>
+        Valor final Liquido
+      </h5>
+      <p
+        class="greenValue"
+        id="article-text"
+      >
+        99
+      </p>
+    </article>
+    <article
+      class="sc-bdvvtL cSbLCz"
+    >
+      <h5>
+        Valor total Investido
+      </h5>
+      <p
+        class=""
+        id="article-text"
+      >
+        99
+      </p>
+    </article>
+    <article
+      class="sc-bdvvtL cSbLCz"
+    >
+      <h5>
+        Ganho liquido
+      </h5>
+      <p
+        class="greenValue"
+        id="article-text"
+      >
+        99
+      </p>
+    </article>
+  </section>
+</div>
+`;

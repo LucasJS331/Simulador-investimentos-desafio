@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Rendimento /> Should render rendimento component 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL IpnXL"
+  >
+    <h3
+      id="rendimento-title"
+    >
+      Rendimento
+    </h3>
+    <a
+      class="rendimento"
+      href="#"
+    >
+      Bruto
+    </a>
+    <a
+      class="rendimento-bg-br-10"
+    >
+      Liquido
+    </a>
+  </div>
+</div>
+`;
